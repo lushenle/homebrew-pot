@@ -11,5 +11,5 @@ brew tap lushenle/homebrew-pot
 1. Install pot
 
 ```bash
-brew install --cask pot
+brew install --cask lushenle/pot/pot
 ```
