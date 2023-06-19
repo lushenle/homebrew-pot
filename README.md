@@ -8,8 +8,14 @@
 brew tap lushenle/homebrew-pot
 ```
 
-1. Install pot
+2. Install pot
 
 ```bash
-brew install --cask lushenle/pot/pot
+brew install --cask pot
+```
+
+3. Upgrade pot
+
+```bash
+brew upgrade --cask pot
 ```
